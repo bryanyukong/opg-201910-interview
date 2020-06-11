@@ -6,7 +6,7 @@ using opg_201910_interview.Services;
 using System.IO;
 using System.Linq;
 
-namespace opg_services_test
+namespace opg_services_test.Controllers
 {
     public class UploadFileServiceTest
     {
